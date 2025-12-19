@@ -31,7 +31,7 @@ Halkan waxaad ka heli doontaa macluumaad iga ku saabsan, xirfadaha aan leeyahay,
 > *(ku dar link-ga website-kaaga halkan)*
 
 ```text
-https://your-portfolio-link.com
+[https://your-portfolio-link.com](https://portfolio-website-sand-delta-87.vercel.app/)
 ````
 
 ---
@@ -85,5 +85,6 @@ Haddii aad ka heshay project-kan:
 > 💙 Mahadsanid booqashadaada!
 
 ```
+
 
 
